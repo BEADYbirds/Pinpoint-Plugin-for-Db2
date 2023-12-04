@@ -1,0 +1,5 @@
+com\navercorp\pinpoint\bootstrap\util\PlatformClassLoaderUtilsTest.class
+com\navercorp\pinpoint\bootstrap\java9\classloader\Java9ClassLoaderTest.class
+com\navercorp\pinpoint\bootstrap\java9\module\JarFileAnalyzerTest.class
+com\navercorp\pinpoint\bootstrap\java9\classloader\PlatformClassLoaderTest.class
+com\navercorp\pinpoint\bootstrap\java9\module\ModuleBuilderTest.class

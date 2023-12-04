@@ -1,0 +1,6 @@
+com\navercorp\pinpoint\plugin\jdbc\mssql\MsSqlServer.class
+com\navercorp\pinpoint\plugin\jdbc\mssql\MSSQLServerContainerFactory.class
+com\navercorp\pinpoint\plugin\jdbc\mssql\MSSqlIT.class
+com\navercorp\pinpoint\plugin\jdbc\mssql\MSSQLServerContainerFactory$1.class
+com\navercorp\pinpoint\plugin\jdbc\mssql\MSSqlJDBCDriverClass.class
+com\navercorp\pinpoint\plugin\jdbc\mssql\MSSSqlConnectionIT.class

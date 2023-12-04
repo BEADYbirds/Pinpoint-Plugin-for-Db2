@@ -1,17 +1,17 @@
 serviceTypes:
-    - code: 7500
-      name: 'PluginExample'
-      matcher:
-          type: 'exact'
-          code: 10998
-    - code: 1900
-      name: 'SAMPLE_SERVER'
-      property:
-          recordStatistics: true
-    - code: 9901
-      name: 'SAMPLE_CLIENT'
-      property:
-          recordStatistics: true
+  - code: 2900
+    name: 'DB2_JDBC'
+    property:
+      terminal: true
+      includeDestinationId: true
+  - code: 2901
+    name: 'DB2_JDBC_QUERY'
+    desc: 'DB2SERVER'
+    property:
+      terminal: true
+      includeDestinationId: true
+      recordStatistics: true
+
 
 annotationKeys:
     - code: 10998

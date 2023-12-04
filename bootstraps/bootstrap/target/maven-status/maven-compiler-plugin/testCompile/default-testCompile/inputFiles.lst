@@ -1,0 +1,16 @@
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\AgentDirGenerator.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\BootLoggerTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\AgentBootLoaderTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\BootLogLevelTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\ArgsParserTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\agentdir\JavaAgentPathResolverTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\ContainerResolverTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\agentdir\LogDirCleanerTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\agentdir\AgentVersionTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\AgentIdResolverTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\ValidIdCheckerTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\config\ProfileLogConfigResolverTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\config\ProfilePropertyLoaderTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\DummyAgent.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\LoadStateTest.java
+C:\pinpoint\pinpoint\bootstraps\bootstrap\src\test\java\com\navercorp\pinpoint\bootstrap\agentdir\AgentDirBaseClassPathResolverTest.java

@@ -1,0 +1,12 @@
+com\navercorp\pinpoint\test\plugin\shared\ReflectionDependencyResolverTest.class
+com\navercorp\pinpoint\test\plugin\shared\SharedTestBeforeAllInvokerTest.class
+com\navercorp\pinpoint\test\plugin\MavenCentralTest.class
+com\navercorp\pinpoint\test\plugin\util\TestPluginVersionTest.class
+com\navercorp\pinpoint\test\plugin\LibraryFinderTest.class
+com\navercorp\pinpoint\test\plugin\shared\SharedTestBeforeAllInvokerTest$ChildTestClass.class
+com\navercorp\pinpoint\test\plugin\util\StringUtilsTest.class
+com\navercorp\pinpoint\test\plugin\shared\TestParameterParserTest.class
+com\navercorp\pinpoint\test\plugin\ExceptionReaderTest.class
+com\navercorp\pinpoint\test\plugin\DependencyResolverTest.class
+com\navercorp\pinpoint\test\plugin\AbstractPinpointPluginTestSuiteTest.class
+com\navercorp\pinpoint\test\plugin\shared\SharedTestBeforeAllInvokerTest$TestClass.class
