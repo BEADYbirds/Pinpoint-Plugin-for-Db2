@@ -72,4 +72,3 @@ You can specify the JVM version for a test by @JvmVersion.
 
 #### Application Test
 PinpointPluginTestSuite is not for an application which has to be launched by its own main class. You can extends [AbstractPinpointPluginTestSuite](https://github.com/naver/pinpoint/blob/master/test/src/main/java/com/navercorp/pinpoint/test/plugin/AbstractPinpointPluginTestSuite.java) and related types to test such applications. 
-
