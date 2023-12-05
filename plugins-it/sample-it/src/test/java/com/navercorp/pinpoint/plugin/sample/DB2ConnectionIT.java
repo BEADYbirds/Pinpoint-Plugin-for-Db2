@@ -34,7 +34,7 @@ import org.junit.Test;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 import org.testcontainers.DockerClientFactory;
-import org.testcontainers.containers.MSSQLServerContainer;
+import org.testcontainers.containers.DB2ServerContainer;
 
 import java.sql.Connection;
 import java.sql.Driver;

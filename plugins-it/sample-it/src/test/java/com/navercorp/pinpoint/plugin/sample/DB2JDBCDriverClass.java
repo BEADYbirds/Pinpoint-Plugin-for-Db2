@@ -31,27 +31,27 @@ public class DB2JDBCDriverClass extends AbstractJDBCDriverClass {
 
     @Override
     public Class<Driver> getDriver() {
-        return forName("com.ibm.db2.jcc4.DB2Driver");
+        return forName("com.ibm.db2.jcc.DB2Driver");
     }
 
     @Override
     public Class<Connection> getConnection() {
-        return forName("com.ibm.db2.jcc4.DB2Connection");
+        return forName("com.ibm.db2.jcc.DB2Connection");
     }
 
     @Override
     public Class<Statement> getStatement() {
-        return forName("com.ibm.db2.jcc4.DB2Statement");
+        return forName("com.ibm.db2.jcc.DB2Statement");
     }
 
     @Override
     public Class<PreparedStatement> getPreparedStatement() {
-        return forName("com.ibm.db2.jcc4.DB2PreparedStatement");
+        return forName("com.ibm.db2.jcc.DB2PreparedStatement");
     }
 
     @Override
     public Class<CallableStatement> getCallableStatement() {
-        return forName("com.ibm.db2.jcc4.DB2CallableStatement");
+        return forName("com.ibm.db2.jcc.DB2CallableStatement");
     }
 
 }

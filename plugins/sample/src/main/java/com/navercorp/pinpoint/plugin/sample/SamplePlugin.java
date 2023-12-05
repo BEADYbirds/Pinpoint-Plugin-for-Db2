@@ -81,7 +81,7 @@ public class SamplePlugin implements ProfilerPlugin, TransformTemplateAware {
     }
 
     private void addConnectionTransformer() {
-        transformTemplate.transform("com.ibm.db2.jcc4.DB2Connection",
+        transformTemplate.transform("com.ibm.db2.jcc.DB2Connection",
                 DB2ConnectionTransform.class);
     }
 
@@ -161,8 +161,7 @@ public class SamplePlugin implements ProfilerPlugin, TransformTemplateAware {
     ;
 
     private void addDriverTransformer() {
-        transformTemplate
-                .transform("com.ibm.db2.jcc4.DB2Driver", DriverTransformer.class);
+        transformTemplate.transform("com.ibm.db2.jcc.DB2Driver", DriverTransformer.class);
     }
 
     public static class DriverTransformer implements TransformCallback {
@@ -185,7 +184,7 @@ public class SamplePlugin implements ProfilerPlugin, TransformTemplateAware {
     }
 
     private void addPreparedStatementTransformer() {
-        transformTemplate.transform("com.ibm.db2.jcc4.DB2PreparedStatement",
+        transformTemplate.transform("com.ibm.db2.jcc.DB2PreparedStatement",
                 PreparedStatementTransform.class);
     }
 
@@ -231,12 +230,12 @@ public class SamplePlugin implements ProfilerPlugin, TransformTemplateAware {
     ;
 
     private void addStatementTransformer() {
-        transformTemplate.transform("com.ibm.db2.jcc4.DB2ServerStatement",
+        transformTemplate.transform("com.ibm.db2.jcc.DB2ServerStatement",
                 DB2StatementTransform.class);
     }
 
     private void addCallableStatementTransformer() {
-        transformTemplate.transform("com.ibm.db2.jcc4.DB2CallableStatement",
+        transformTemplate.transform("com.ibm.db2.jcc.DB2CallableStatement",
                DB2CallableStatementTransform.class);
     }
 
